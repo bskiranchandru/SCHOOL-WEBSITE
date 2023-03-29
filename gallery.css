@@ -1,0 +1,30 @@
+body{
+	padding-top: 70px;
+}
+.jumbotron{
+	color: #003399;
+	background:#f2f2f2;
+}
+.navbar-default{
+	background:#ffff;
+}
+.navbar .navbar-nav>li>a
+{
+	color:#ffff;
+}
+.navbar-fixed-top .navbar-nav>li>a
+{
+	color:#ffff;
+}
+.navbar{
+	background: #000080;
+}
+.navbar-default .navbar-brand{
+	color:#ffff;
+}
+#header1{
+	color: #003399;
+	background:#f2f2f2;
+	padding-top: -10%;
+
+}

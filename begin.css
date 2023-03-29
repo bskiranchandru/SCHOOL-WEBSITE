@@ -1,0 +1,18 @@
+#image{
+    background: url(https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+
+     }
+#content{
+	text-align: center;
+	padding-top: 50%;
+   padding-bottom: 50%;
+}
+.p-3 sm-2 bg-primary text-white
+{
+	text-allign:center;
+}
+h1{
+	
+}

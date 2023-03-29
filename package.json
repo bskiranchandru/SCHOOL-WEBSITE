@@ -1,0 +1,14 @@
+{
+  "name": "kaushik",
+  "version": "1.0.0",
+  "description": "manga",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "bousidi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

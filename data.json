@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "productName": "KAUSHIK",
+    "image": "🧑",
+    "p": 45,
+    "c": 89,
+    "m": 75,
+    "b": 99,
+    "description": "SATISFACTORY"
+  },
+  {
+    "id": 1,
+    "productName": "GAUTHAM",
+    "image": "🧑",
+    "p": 87,
+    "c": 55,
+    "m": 65,
+    "b": 58,
+    "description": "GOOD"
+  },
+  {
+    "id": 2,
+    "productName": "KIRAN",
+    "image": "🧑",
+    "p": 87,
+    "c": 98,
+    "m": 78,
+    "b": 75,
+    "description": "EXCELLENT"
+  },
+  {
+    "id": 3,
+    "productName": "HARSHA",
+    "image": "🧑",
+    "p": 58,
+    "c": 95,
+    "m": 78,
+    "b": 84,
+    "description": "SATISFACTORY"
+  }
+  
+]
